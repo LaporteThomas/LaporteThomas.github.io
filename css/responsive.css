@@ -5,17 +5,20 @@
 @media only screen and (min-width: 992px) and (max-width: 1199px) {}
 @media (min-width: 768px) and (max-width: 991px) {
 	#mainNav {
-		background-color: #333333;
+		background-color: #ffffff;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
+	}
+	.navbar-brand h1 {
+		font-size: 28px;
 	}
 	.navbar-dark .navbar-nav .nav-link::after{
 		display: none;
 	}
 	.navbar-dark .navbar-toggler{
-		color: rgba(255,255,255);
-		border-color: rgba(255,255,255);
+		color: #151f26;
+		border-color: #151f26;
 	}
 	.heading h1{
 		font-size: 28px;
@@ -37,6 +40,9 @@
 	}
 	.message-box{
 		margin-bottom: 30px;
+	}
+	.message-box h3{
+		font-size: 28px;
 	}
 	.filter-button-group button{
 		padding: 12px 27px;
@@ -53,17 +59,20 @@
 }
 @media (max-width: 767px) {
 	#mainNav {
-		background-color: #333333;
+		background-color: #ffffff;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
+	}
+	.navbar-brand h1 {
+		font-size: 28px;
 	}
 	.navbar-dark .navbar-nav .nav-link::after{
 		display: none;
 	}
 	.navbar-dark .navbar-toggler{
-		color: rgba(255,255,255);
-		border-color: rgba(255,255,255);
+		color: #151f26;
+		border-color: #151f26;
 	}
 	.heading h1{
 		font-size: 28px;
@@ -85,6 +94,9 @@
 	}
 	.message-box{
 		margin-bottom: 30px;
+	}
+	.message-box h3{
+		font-size: 28px;
 	}
 	.filter-button-group button{
 		padding: 12px 27px;
@@ -101,17 +113,20 @@
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 	#mainNav {
-		background-color: #333333;
+		background-color: #ffffff;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
+	}
+	.navbar-brand h1 {
+		font-size: 28px;
 	}
 	.navbar-dark .navbar-nav .nav-link::after{
 		display: none;
 	}
 	.navbar-dark .navbar-toggler{
-		color: rgba(255,255,255);
-		border-color: rgba(255,255,255);
+		color: #151f26;
+		border-color: #151f26;
 	}
 	.heading h1{
 		font-size: 28px;
@@ -133,6 +148,9 @@
 	}
 	.message-box{
 		margin-bottom: 30px;
+	}
+	.message-box h3{
+		font-size: 28px;
 	}
 	.filter-button-group button{
 		padding: 12px 27px;
