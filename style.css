@@ -475,6 +475,7 @@ xclip
     display: block;
     position: relative;
     overflow: hidden;
+    padding: 70px 0px 0px;
 }
 
 .noover {
@@ -495,12 +496,10 @@ xclip
 
 .section.wb {
     background-color: #ffffff;
-    padding: 70px 0;
 }
 
 .section.lb {
     background-color: #f2f3f5;
-    padding: 0px 0;
 }
 
 .section.db {
@@ -548,7 +547,7 @@ xclip
 .section-title {
     display: block;
     position: relative;
-    margin-bottom: 60px;
+    margin-bottom: 25px;
 }
 
 .section-title p {
@@ -663,7 +662,7 @@ xclip
 
 
 .services-inner-box{
-	padding: 15px;
+	padding: 0px;
 	background: #ffffff;
 	margin-bottom: 30px;
 }
@@ -679,7 +678,7 @@ xclip
 }
 .services-inner-box h2{
 	font-size: 22px;
-	font-weight: 600;
+	font-weight: 500;
 }
 
 
