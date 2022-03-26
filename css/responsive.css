@@ -5,7 +5,7 @@
 @media only screen and (min-width: 992px) and (max-width: 1199px) {}
 @media (min-width: 768px) and (max-width: 991px) {
 	#mainNav {
-		background-color: #ffffff;
+		background-color: #151f26;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
@@ -17,8 +17,8 @@
 		display: none;
 	}
 	.navbar-dark .navbar-toggler{
-		color: #151f26;
-		border-color: #151f26;
+		color: #fff;
+		border-color: #fff;
 	}
 	.heading h1{
 		font-size: 28px;
@@ -59,7 +59,7 @@
 }
 @media (max-width: 767px) {
 	#mainNav {
-		background-color: #ffffff;
+		background-color: #151f26;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
@@ -71,8 +71,8 @@
 		display: none;
 	}
 	.navbar-dark .navbar-toggler{
-		color: #151f26;
-		border-color: #151f26;
+		color: #fff;
+		border-color: #fff;
 	}
 	.heading h1{
 		font-size: 28px;
@@ -113,7 +113,7 @@
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
 	#mainNav {
-		background-color: #ffffff;
+		background-color: #151f26	;
 	}
 	.navbar-dark .navbar-brand{
 		width: 55%;
@@ -125,8 +125,8 @@
 		display: none;
 	}
 	.navbar-dark .navbar-toggler{
-		color: #151f26;
-		border-color: #151f26;
+		color: #fff;
+		border-color: #fff;
 	}
 	.heading h1{
 		font-size: 28px;
