@@ -37,7 +37,7 @@ html, body{
 }
 
 a {
-    color: #1f1f1f;
+    color: #8ac5ce;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -93,7 +93,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    color: #8ac5ce;
     text-decoration: none!important;
     opacity: 1
 }
@@ -108,7 +108,7 @@ h6 a:hover {
 }
 
 a {
-    color: #222222;
+    color: #8ac5ce;
     text-decoration: none;
     outline: none;
 }
@@ -476,7 +476,7 @@ xclip
 }
 
 .section.wb {
-    background-color: #ffffff;
+    background-color: #f2f3f5;
     padding-top: 150px;
 }
 
@@ -645,7 +645,7 @@ xclip
 
 .services-inner-box{
 	padding: 0px;
-	background: #ffffff;
+	background: #f2f3f5;
 	margin-bottom: 30px;
 }
 .ser-icon{
